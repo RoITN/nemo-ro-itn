@@ -1,0 +1,196 @@
+# Additional currencies are listed below.
+# To use them, simply copy them to the main currency_major_plural.tsv file.
+
+AED	dirhami
+AFN	afgani
+ALL	lek
+AMD	dramuri armenești
+ANG	florini antilezi neerlandezi
+AOA	kwanze
+AOK	primele kwanze
+AON	noii kwanze
+AOR	kwanze reajustate
+AUD	dolari australieni
+AWG	florini arubanezi
+AZN	manat azeri
+BAM	marci convertibile
+BBD	dolari barbadieni
+BDT	taka
+BGN	leva bulgare
+BHD	dinari bahraini
+BIF	franci burundezi
+BD$	dolari bermudezi
+BND	dolari bruneieni
+BOV	bolivieni cu valoare constantă față de dolarul american
+B$	dolari bahamezi
+BTN	ngultrum
+BWP	pula
+BYN	ruble bieloruse
+BZ$	dolari belizezi
+CAD	dolari canadieni
+CDF	franci congolezi
+CHE	euro wir
+CHW	franci wir
+CLF	unități de foment
+COU	unități de valoare reală
+CUC	pesos convertibili
+CVE	escudos capverdieni
+DJF	franci djiboutieni
+DKK	coroane daneze
+DZD	dinari algerieni
+EGP	lire egiptene
+ERN	nakfa
+ETB	birr etiopieni
+FJ$	dolari fijieni
+FKP	lire malvine
+GEL	lari
+GHS	cedi ganezi
+GIP	lire gibraltareze
+GMD	dalasi
+GNF	franci guineeni
+GYD	dolari guyanezi
+HRK	kuna
+HUF	forinți
+IDR	rupii indoneziene
+ILS	noi șecheli israelieni
+IQD	dinari irakieni
+IRR	riali iranieni
+ISK	coroane islandeze
+JMD	dolari jamaicani
+JOD	dinari jordanieni
+KES	șilingi kenyeni
+KGS	som
+KHR	riel
+KMF	franci comorezi
+KPW	woni nord-coreeni
+KR	coroane
+KWD	dinari kuweiti
+KYD	dolari din Insulele Cayman
+KZT	tenge
+LAK	kip
+LBP	lire libaneze
+LKR	rupii din Sri Lanka
+LRD	dolari liberieni
+LSL	maloti
+LYD	dinari libieni
+MAD	dirhami marocani
+MDL	lei moldovenești
+MGA	ariary
+MKD	denari
+MMK	kyat
+₮	tugrik
+MOP$	patacas
+MRU	ouguiya
+MUR	rupii mauritiene
+MVR	rufiyaa
+MWK	kwacha
+MXV	unități de investiții mexicane
+MYR	ringgit malaiezieni
+MZN	meticali mozambicani
+NAD	dolari namibieni
+₦	naira
+NOK	coroane norvegiene
+NPR	rupii nepaleze
+NZ$	dolari neozeelandezi
+OMR	riali omani
+PGK	kina
+₱	pesos filipinezi
+PKR	rupii pakistaneze
+ZŁ	zloți
+QAR	riali qatari
+RON	lei românești
+RS	rupii
+RSD	dinari sârbești
+RUB	ruble rusești
+RWF	franci ruandezi
+SAR	riali saudiți
+SBD	dolari din Insulele Solomon
+SCR	rupii seychelleze
+SDG	lire sudaneze
+SEK	coroane suedeze
+SGD	dolari singaporezi
+SHP	lire din Insula Sfânta Elena
+SLL	leoni
+SOS	șilingi somalezi
+SRD	dolari surinamezi
+SSP	lire sud-sudaneze
+STN	dobra
+SYP	lire siriene
+SZL	emalangeni
+฿	baht
+TJS	somoni tadjici
+TMT	manat turkmen
+TND	dinari tunisieni
+TOP	paʻanga
+TTD	dolari din Trinidad și Tobago
+TWD	noi dolari taiwanezi
+TZS	șilingi tanzanieni
+UAH	grivne
+UGX	șilingi ugandezi
+USN	dolari americani următoarea zi
+UYI	pesos uruguayeni în unități indexate
+UYW	unități previzionale uruguayene
+UZS	som uzbek
+₫	dongi vietnamezi
+VUV	vatu
+WST	tala
+XAF	franci CFA din Africa Centrală
+XAG	argint
+XAU	aur
+XCD	dolari din Caraibe de Est
+XDR	drepturi speciale de tragere
+XOF	franci CFA din Africa de Vest
+XPD	paladiu
+XPF	franci CFP
+XPT	platină
+XSU	sisteme unitare de compensare regională
+XUA	unități de cont ale Băncii Africane de Dezvoltare
+YER	riali yemeniți
+ZAR	rand
+ZMW	kwacha zambieni
+ZWL	dolari zimbabueeni
+ADF	franci andoranezi
+ADP	peze andoraneze
+AON	kwanze angoleze
+AOR	kwanze angoleze reajustate
+ARA	austri
+ARC	pesos argentinieni
+ARF	pesos argentinieni puternici
+ARG	pesos argentinieni aur
+ARL	pesos argentinieni ley
+ARM	pesos argentinieni monedă națională
+ATS șilingi austrieci
+BEF	franci belgieni
+BGL	leva bulgare
+CSK	coroane cehoslovace
+CYP	lire cipriote
+DDM	marci RDA
+DEM	marci germane
+ECV	unități de valoare constantă ecuadoriene
+EEK	coroane estoniene
+EHP	peze sahrawiene
+FIM	marci finlandeze
+FRF	franci francezi
+GRD	dracme grecești
+IEP	lire irlandeze
+ITL	lire italiene
+LUF	franci luxemburghezi
+MTL	lire malteze
+NLG	florini neerlandezi
+PEI	inti
+PLZ	zloți polonezi
+PTE	escudos portughezi
+SIT	tolari sloveni
+SKK	coroane slovace
+SRG	guilderi surinamezi
+SUR	ruble sovietice
+TRL	lire turcești
+XEU	unități monetare europene
+YUD	noi dinați iugoslavi
+YUM	dinați iugoslavi
+ZAL	randuri sud-africane cod de fonduri
+ZRN	noi zaire
+ZRZ	zaire
+FR	franci
+MK	marci
+KČ	coroane cehe
